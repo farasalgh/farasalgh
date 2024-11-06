@@ -43,8 +43,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="[https://raw.githubusercontent.com/f![Uploading github-user-contribution.svg…]()
-arasalgh/farasalgh/output/github-contribution-grid-snake.svg](https://github.com/user-attachments/assets/61c895fc-43f2-4b70-969a-1559f03ae43a)
-arasalgh/farasalgh/output/github-contribution-grid-snake.svg)" />
+arasalgh/farasalgh/output/github-contribution-grid-snake.svg]" />
   
   <br/><br/><br/>
 </div>
