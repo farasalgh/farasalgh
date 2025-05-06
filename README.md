@@ -1,6 +1,6 @@
-<!-- PROFILE HEADER -->
+<!-- ANIME BANNER -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%" alt="Profile Picture"/>
+  <img src="[https://wallpaperaccess.com/full/2213424.jpg](https://pin.it/oyJh7pbrU)" alt="Anime Banner" width="100%" style="max-height:220px; object-fit:cover; border-radius:16px;"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#0077B5">Faras Alghani</span> 👋</h1>
