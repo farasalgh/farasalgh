@@ -55,6 +55,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/hikmalrdtya/farasalgh/output/snake.svg" alt="Snake animation" />
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farasalgh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
