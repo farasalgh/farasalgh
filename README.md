@@ -55,7 +55,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/hikmalrdtya/farasalgh/output/snake.svg" alt="Snake animation" />
+
 
 <!-- FOOTER -->
 <p align="center">
