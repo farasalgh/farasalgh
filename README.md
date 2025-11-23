@@ -27,26 +27,6 @@
 
 ---
 
-<!-- TECH STACK -->
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python,dart,react,nextjs,nodejs,tailwind,laravel,flask,opencv,flutter" />
-</p>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farasalgh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farasalgh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farasalgh&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" width="40%"/>
-</p>
-
----
-
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 <p align="center">
